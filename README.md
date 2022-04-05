@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahid RN</h1>
-<h3 align="center">A junior mobile and website developer. Experienced with real project in Mobile Apps Development, Website Develoment, and Data Science Projects.</h3>
+<h3 align="center">A junior mobile, website and RPA developer. Experienced with real projects in Mobile Apps Development, Website Develoment, and Data Science Projects.</h3>
 
 - 🔭 I’m currently working as **RPA Developer**
 
