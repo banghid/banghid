@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wahid RN</h1>
 <h3 align="center">A junior mobile and website developer. Experienced with real project in Mobile Apps Development, Website Develoment, and Data Science Projects.</h3>
 
-- 🔭 I’m currently working on **Smart Home Project**
+- 🔭 I’m currently working on ** as RPA Developer **
 
-- 🌱 I’m currently learning **Flutter and IoT**
+-  I’m currently working on **Smart Home Project** as Personal Project
+
+- 🌱 I’m currently learning **Flutter, IoT and Robotic Process Automation with UiPath and Robocorp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
