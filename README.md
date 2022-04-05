@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning **Flutter, IoT and Robotic Process Automation with UiPath and Robocorp**
 
 <h3 align="left">Connect with me:</h3>
+[LikedIn](https://www.linkedin.com/in/wahidrn/)
 <p align="left">
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
